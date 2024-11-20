@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/dicodingacademy/a658-machine-learning-googlecloud/releases/tag/serta-mulia-model
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/715027704/62ac88c5-fba6-4d38-abc3-a979d99c0c25?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241118T153643Z&X-Amz-Expires=300&X-Amz-Signature=947bfeb1289bc14fbb1778030698e9f79b05da92d55354ec1c3fe41e3d198695&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmodel.json&response-content-type=application%2Foctet-stream
